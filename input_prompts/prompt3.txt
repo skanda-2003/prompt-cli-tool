@@ -1,0 +1,2 @@
+A user has input their first and last name into a form. We don't know in which order their first name and last name are, but we need it to be in this format '[Last name], [First name]'.
+Please convert the following name in the expected format: John Smith

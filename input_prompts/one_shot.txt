@@ -1,0 +1,3 @@
+Translate the following sentences from English to French:
+English: Hello -> French: Bonjour
+English: Thank you -> French:

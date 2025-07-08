@@ -1,0 +1,3 @@
+You are a helpful assistant. Help me with this:
+
+Give me a study plan if I can invest 3-4 hours each day during weekdays and 6-7 hours during weekends. I want to master DSA. Give me a detailed plan from start to finish
