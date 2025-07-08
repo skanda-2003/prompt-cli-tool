@@ -1,4 +1,4 @@
-# 🤖 Prompt-Based AI CLI Tool using Ollama (Week 1)
+# 🤖 Prompt-Based AI CLI Tool using Ollama
 
 > A simple CLI-based application that allows users to send text prompts or input files to a local LLM (via Ollama), and receive intelligent responses. Designed to demonstrate interaction with local language models using command-line tools.
 
